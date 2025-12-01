@@ -2,5 +2,9 @@ Hello I am Jupiter
 I have many moons
 Haly
 Baly
-Rino
-Nino
+Dino
+Tethys
+Pheobe
+Miron
+Salaly
+
